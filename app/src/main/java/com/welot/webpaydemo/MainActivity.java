@@ -16,7 +16,7 @@ import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String LOT_URL = "http://www.suishenbuy.com/cdhTest/index";
+    private static final String LOT_URL = "";
     private WebView mainWeb;
     private SharedPreferences sharedPreferences;
     private String cookie;
